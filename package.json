@@ -1,0 +1,25 @@
+{
+  "name": "urban",
+  "version": "1.0.0",
+  "description": "this is to retrieve income level data from BLS.gov",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "BLS"
+  ],
+  "author": "Larry Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.0"
+  }
+}
