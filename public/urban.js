@@ -61,10 +61,10 @@ function onEachFeature(feature, layer) {
 async function getData() {
     const response = await fetch('/api');
     const data = await response.json();
-    console.log(data[0].lat);
-    const latlng = ([data[0].lat, data[0].lon])
     
-    const marker = L.marker(latlng).addTo(mymap);
+    const latlng = ([data[0].lat, data[0].lon])
+    console.log(latlng);
+    const marker = L.marker([data[0].lat, data[0].lon]).addTo(mymap);
 
 }
 
