@@ -25,6 +25,7 @@
 {"lat":41.910738599999995,"lon":-87.6783863,"timestamp":1581187614152,"_id":"4jhG1en55cVvb7Qz"}
 {"lat":41.9108038,"lon":-87.67837560000001,"timestamp":1578700365070,"_id":"52kpT7Bf4ZK1YHgw"}
 {"lat":41.8877877,"lon":-87.6521006,"timestamp":1580590725028,"_id":"5LiWMnRCFHMovifz"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895129391,"_id":"5Lq6j4b3qeKe0eU9"}
 {"lat":41.8836703,"lon":-87.6545809,"timestamp":1580426413417,"_id":"5d10RSU5wrqe8ljl"}
 {"lat":41.910804,"lon":-87.6783712,"timestamp":1578697541621,"_id":"5eXKUSoInVcUvr2z"}
 {"lat":41.882963,"lon":-87.6842294,"timestamp":1578008381246,"_id":"5r72wAvolDLZrMwf"}
@@ -64,6 +65,7 @@
 {"lat":41.8830471,"lon":-87.6843603,"timestamp":1579653872251,"_id":"CxsBlNKxcyAHowyw"}
 {"lat":41.883002999999995,"lon":-87.6843349,"timestamp":1579227964340,"_id":"DJ2xiV0rV0IgTdbz"}
 {"lat":41.887749199999995,"lon":-87.6521509,"timestamp":1580592197562,"_id":"DWoHCjLx4RKd8v2q"}
+{"lat":41.8845542,"lon":-87.65235790000001,"timestamp":1581895294486,"_id":"DZlmPdSBlxMBMjzo"}
 {"lat":41.9108102,"lon":-87.678382,"timestamp":1578697919245,"_id":"DnJ2In1fJfNJKw6F"}
 {"lat":41.8877641,"lon":-87.6521176,"timestamp":1580588845569,"_id":"E9TVcsYjQTqSEzwJ"}
 {"lat":41.882976899999996,"lon":-87.68412119999999,"timestamp":1581391742829,"_id":"EOa84QaNyAVGo7Ar"}
@@ -97,6 +99,7 @@
 {"lat":41.8829498,"lon":-87.6841188,"timestamp":1581393513589,"_id":"KyHEHhWRkedIKqTG"}
 {"name":"Larry","status":"We Good","_id":"L583nHTSd9zIikYp"}
 {"lat":41.883012199999996,"lon":-87.68438859999999,"timestamp":1578943188746,"_id":"L8h0ERHJTNV9Wdvs"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895203736,"_id":"LH7IXIEj2CKYR0Oz"}
 {"lat":41.882914299999996,"lon":-87.6842678,"timestamp":1578673703342,"_id":"Ldi54mqdQysCB2pj"}
 {"lat":41.8829615,"lon":-87.68411189999999,"timestamp":1581393047114,"_id":"MX9LBwn6ktwJ95CW"}
 {"lat":41.8829594,"lon":-87.68412719999999,"timestamp":1581393236036,"_id":"MhxUhHvdbouCStqK"}
@@ -222,6 +225,7 @@
 {"lat":41.8829614,"lon":-87.6841241,"timestamp":1581394079381,"_id":"oDSHq6C5KhiuV8Z7"}
 {"lat":41.8829474,"lon":-87.6841231,"timestamp":1581392734443,"_id":"oaXEe08YVQTQLNTz"}
 {"lat":41.887709799999996,"lon":-87.6521386,"timestamp":1580587527008,"_id":"p9EsvGkkoPre15K9"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895198589,"_id":"pOlXJMq9L9iXmx22"}
 {"lat":41.8877537,"lon":-87.65216339999999,"timestamp":1580591469259,"_id":"pZsFSYJ9BiZDL8h3"}
 {"name":"Larry","status":"We Good","_id":"pvMv93gTxzKrs12K"}
 {"lat":41.887709799999996,"lon":-87.6521386,"timestamp":1580587339967,"_id":"q0wiPQAaPGQnzvGW"}
@@ -233,6 +237,9 @@
 {"name":"Larry","status":"We Good","_id":"qr6179tKbl1hFId3"}
 {"name":"Larry","status":"We Good","_id":"rBd99O2E7aUmt1xx"}
 {"name":"Larry","status":"We Good","_id":"rE0PLbYiwm0PfP6R"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895242244,"_id":"rwBMrhBEKaBPv14c"}
+{"lat":41.8845542,"lon":-87.65235790000001,"timestamp":1581895259058,"_id":"sAyBVXTsWDcjPmxV"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895147683,"_id":"sFjkptIJt6p3AvCY"}
 {"lat":41.882947,"lon":-87.6841031,"timestamp":1578363746202,"_id":"sKzOIiyKT4NrIOgU"}
 {"lat":41.887674499999996,"lon":-87.6521982,"timestamp":1580592858678,"_id":"sL6R3hesEAY628zg"}
 {"lat":41.8829614,"lon":-87.68411290000002,"timestamp":1581469345398,"_id":"sNfoadp3pkrYx5cQ"}
@@ -250,6 +257,7 @@
 {"lat":41.8829577,"lon":-87.6841464,"timestamp":1581391192544,"_id":"wHrBFy4u3hw4ppAa"}
 {"lat":41.9108144,"lon":-87.67840629999999,"timestamp":1581189127746,"_id":"wlY2rZJEuGF7k994"}
 {"lat":41.8830039,"lon":-87.6842851,"timestamp":1578499130011,"_id":"wogUzgfYQJ3OGDlj"}
+{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895235589,"_id":"xJfxTlL7tJwtlte4"}
 {"lat":41.882948899999995,"lon":-87.6840791,"timestamp":1578362547332,"_id":"xgcGJFJaJZg0ecOX"}
 {"lat":41.8829176,"lon":-87.68426439999999,"timestamp":1578614925749,"_id":"xke1LRBOToduXmOv"}
 {"lat":41.910766599999995,"lon":-87.6783617,"timestamp":1580675470964,"_id":"y05caJbvdB61JChs"}
@@ -259,7 +267,4 @@
 {"lat":41.8829594,"lon":-87.68412719999999,"timestamp":1581393294286,"_id":"ywMwhXV3AGmppj0P"}
 {"lat":41.882922099999995,"lon":-87.6841239,"timestamp":1581390694220,"_id":"z8lWxpYk25K47cyC"}
 {"lat":41.910784899999996,"lon":-87.67835529999999,"timestamp":1578695805856,"_id":"zxvkusgvHnrjyPBk"}
-{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895129391,"_id":"5Lq6j4b3qeKe0eU9"}
-{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895147683,"_id":"sFjkptIJt6p3AvCY"}
-{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895198589,"_id":"pOlXJMq9L9iXmx22"}
-{"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895203736,"_id":"LH7IXIEj2CKYR0Oz"}
+{"lat":41.8845309,"lon":-87.6523424,"timestamp":1581895386507,"_id":"7quqepVOdH37gUXC"}

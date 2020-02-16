@@ -57,21 +57,6 @@ function onEachFeature(feature, layer) {
     }
 }
 
-
-async function getData() {
-    const response = await fetch('/api');
-    const data = await response.json();
-    
-    const latlng = ([data[0].lat, data[0].lon])
-    console.log(latlng);
-    const marker = L.marker([data[0].lat, data[0].lon]).addTo(mymap);
-
-}
-
-getData();
-
-
-
 function getLocation() {
     if ('geolocation' in navigator){
         navigator.geolocation.getCurrentPosition(async position => {
@@ -102,6 +87,17 @@ function getLocation() {
 
 getLocation();
 
+async function getData() {
+    const response = await fetch('/api');
+    const data = await response.json();
+    
+    const latlng = ([data[0].lat, data[0].lon])
+    console.log(latlng);
+    const marker = L.marker([data[0].lat, data[0].lon]).addTo(mymap);
+
+}
+
+getData();
 
 const button = document.getElementById('submit');
 
