@@ -4,7 +4,7 @@ let cors = require('cors')
 let fetch = require('node-fetch');
 const Datastore = require('nedb');
 
-
+require('@google-cloud/debug-agent').start();
 
 require('dotenv').config()
 
