@@ -33,7 +33,6 @@ app.get('/income', async (request, response) => {
     const json = await income.json();
     response.json(json.Results.series[0].data[0]);
 
-
     console.log(json.Results.series[0].data[0]);
     incomebase.insert(json);
 });

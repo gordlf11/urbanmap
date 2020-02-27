@@ -20,6 +20,14 @@ body {
   /* border: 5px solid black; */
 }
 
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+#ain, #pop {
+  font-weight: bold
+}
 /* ROOT FONT STYLES */
 
 * {
