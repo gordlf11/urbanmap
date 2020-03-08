@@ -88,6 +88,7 @@
 {"lat":41.8829577,"lon":-87.6841464,"timestamp":1581391207814,"_id":"H5Npqg2F0Epz1k1r"}
 {"name":"Larry","status":"We Good","_id":"H87EZVMKaKNj2jc6"}
 {"lat":41.887757099999995,"lon":-87.6521396,"timestamp":1580589112263,"_id":"HAEzgoZi5HdOqxtL"}
+{"lat":41.8829383,"lon":-87.6841843,"timestamp":1582847677018,"_id":"HLzsLpCidq9GvnQ8"}
 {"lat":41.8829807,"lon":-87.6841142,"timestamp":1581394323749,"_id":"HawdjDuvHYU8K35s"}
 {"lat":41.887719399999995,"lon":-87.65215769999999,"timestamp":1580592794056,"_id":"I6pxiLMTklv87f6Z"}
 {"lat":41.8876892,"lon":-87.65218550000002,"timestamp":1580591867247,"_id":"IQk8oL7l98BeuQLn"}
@@ -109,6 +110,7 @@
 {"lat":41.883012199999996,"lon":-87.68438859999999,"timestamp":1578943188746,"_id":"L8h0ERHJTNV9Wdvs"}
 {"lat":41.8845289,"lon":-87.65234919999999,"timestamp":1581895203736,"_id":"LH7IXIEj2CKYR0Oz"}
 {"lat":41.882914299999996,"lon":-87.6842678,"timestamp":1578673703342,"_id":"Ldi54mqdQysCB2pj"}
+{"lat":41.8829345,"lon":-87.6841178,"timestamp":1583027476510,"_id":"LfzkCaWbS7yUejVZ"}
 {"lat":41.8845469,"lon":-87.6523753,"timestamp":1581897564774,"_id":"Lj93C90lWbocWKqW"}
 {"lat":41.8829615,"lon":-87.68411189999999,"timestamp":1581393047114,"_id":"MX9LBwn6ktwJ95CW"}
 {"lat":41.8829594,"lon":-87.68412719999999,"timestamp":1581393236036,"_id":"MhxUhHvdbouCStqK"}
@@ -138,6 +140,7 @@
 {"lat":41.910784899999996,"lon":-87.67835529999999,"timestamp":1578695753275,"_id":"RQVz0EVNPoxSn0Jf"}
 {"lat":41.8829248,"lon":-87.68410349999999,"timestamp":1581390366251,"_id":"RZGasQketozgiCfj"}
 {"lat":41.8877326,"lon":-87.6521874,"timestamp":1580591052965,"_id":"S67QZCsOULWd7q13"}
+{"lat":41.882938599999996,"lon":-87.68419639999999,"timestamp":1583461391195,"_id":"SAEplQLcnbIbH2TP"}
 {"name":"Larry","status":"We Good","_id":"SGHIqvtZy8smEHl9"}
 {"name":"Larry","status":"We Good","_id":"SI3LLBrVLNyTv62P"}
 {"lat":41.9107996,"lon":-87.6783696,"timestamp":1578700575983,"_id":"SeQZLqR1i0L3Z5gg"}
@@ -290,4 +293,3 @@
 {"lat":41.8829594,"lon":-87.68412719999999,"timestamp":1581393294286,"_id":"ywMwhXV3AGmppj0P"}
 {"lat":41.882922099999995,"lon":-87.6841239,"timestamp":1581390694220,"_id":"z8lWxpYk25K47cyC"}
 {"lat":41.910784899999996,"lon":-87.67835529999999,"timestamp":1578695805856,"_id":"zxvkusgvHnrjyPBk"}
-{"lat":41.8829383,"lon":-87.6841843,"timestamp":1582847677018,"_id":"HLzsLpCidq9GvnQ8"}

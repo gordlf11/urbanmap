@@ -40,8 +40,8 @@ const popbase = new Datastore('pop.db');
 popbase.loadDatabase();
 
 
-app.get('/pop', async (request, response) => {
-    const api_key = process.env.API_KEY;
+app.get('/pop', async (request, response) => { try {
+const api_key = process.env.API_KEY;
     const pop_url = `https://api.census.gov/data/2010/dec/sf1?get=P001001,NAME&for=us:*&key=${api_key}`;
     //const api_url = 'https://api.darksky.net/forecast/abeffc41820fb5d73afdcdf1234c12df/37.8267,-122.4233'
     const pop = await fetch(pop_url);
@@ -50,6 +50,13 @@ app.get('/pop', async (request, response) => {
 
     console.log(json[1][0]);
     popbase.insert(json);
+
+}
+catch (error){
+console.log('no data');
+response = '100';
+}
+    
 });
 
 app.get('/black', async (request, response) => {
