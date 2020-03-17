@@ -11,7 +11,12 @@ console.log(process.env)
 
 app.use(cors())
 
-app.listen(3000, () => console.log('listening at port 3000'));
+
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}...`);
+});
+
 app.use(express.static('public'));
 app.use(express.json({ limit: '1mb'}));
 
